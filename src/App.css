@@ -1,0 +1,203 @@
+
+
+body{
+   background: rgb(59, 118, 246);
+
+}
+/* estilos de la barra de navegacion*/
+.navbar{
+
+    display:flex;
+    width: 100%;
+    background-image: url(./img/foto7.jpg);
+background-position: center;
+    background-size: cover;
+    object-fit: cover;
+
+
+
+
+}
+.logo{
+    font-weight: bold;
+    font-size: 55px;
+    border-bottom: 2px solid rgb(131, 242, 41);
+color :rgb(249, 247, 247);
+margin-left: 4rem;
+
+
+ }
+
+
+
+ .logo::first-letter{
+    font-size:50px;
+ }
+
+
+
+.menu li{
+color:azure;
+list-style: none;
+   margin-left: 60px;
+   width: 70%;
+align-items: flex-end;
+font-weight: bold;
+justify-content: flex-end;
+font-size: 30px;
+
+}
+
+ li:hover{
+transform:scale(1.1) translate(7px,-10%);
+transition: 0.3s;
+border-bottom: 2px solid rgb(97, 247, 17);
+
+
+
+ }
+ li a:hover{
+     color :rgb(249, 243, 243);
+ }
+ .menu ul li {
+   display:inline-flex;
+   margin-left: 20px;
+   margin-bottom: 20px;
+   padding-left:20px;
+   color: chartreuse;
+
+
+
+
+}
+.menu ul li a{
+   text-decoration: none;
+
+}
+/* estilos de pagina ppal*/
+
+.video-home{
+position: absolute;
+    z-index: -1;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100vh;
+    opacity: 0.5;
+
+}
+.presentation{
+    width: 16rem;
+    height: 5rem;
+border-radius: 20px;
+    border:3px solid white;
+    margin-top: 25rem;
+    margin-left: 25rem;
+    opacity: 0.8;
+    background-color: rgb(247, 1, 1);
+}
+
+.presentation a{
+
+text-decoration: none;
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin: 3rem;
+    color:white;
+
+
+}
+
+
+
+
+
+
+
+
+/* estilos de cards pagina de turnos */
+.card-container{
+
+   display: grid;
+   grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(3,1fr);
+  margin:auto;
+
+}
+.card{
+    overflow: hidden;
+   width: 20rem;
+   height: 25rem;
+position:relative;
+display: flex;
+margin: 20px;
+    border-radius: 25px;
+    transition:all .4s ease;
+    border:2px solid black;
+justify-content: center;
+
+align-items: center;
+
+}
+.card p{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left:10px;
+    color: azure;
+}
+.info{ opacity: 0 }
+.image{
+    position:absolute;
+    width:100%;
+    height:100% ;
+    object-fit: cover;
+
+
+}
+.card:hover{
+
+    transform:scale(1.1)  ;
+   transition: 0.3s ease;
+   border: 5px solid white;
+
+}
+.card .info:hover{
+    opacity:1;
+    background-color: #2e6ac2;
+    position:absolute;
+    background-image: url(./img/istockphoto-1346488310-612x612.jpg);
+    width: 100%;
+    height:100%;
+    margin: auto;
+
+
+}
+
+
+ion-icon{
+   font-size: 50px;
+   color:rgb(97, 188, 7);
+   margin-left: 30px;
+    border: 1px solid whitesmoke;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: whitesmoke;
+}
+.face-ico>ion-icon{
+   color:blue;
+   margin-left: 25px;
+}
+.leaflet-container{
+    margin-top: 2rem;
+    width: 70vw;
+    height: 55vh;
+    border: 2px solid black;
+    border-radius: 1rem;
+}
+h1{
+
+    font-weight: bold;
+    text-align: center;
+    color: azure;
+}
