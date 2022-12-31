@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e35b2a0b.css",
+    "main.js": "/static/js/main.208cbb5c.js",
+    "static/media/video.mp4": "/static/media/video.cd4f5e0011111d21f2c9.mp4",
+    "static/media/foto2.jpg": "/static/media/foto2.e85bbab1c1c9193aca7e.jpg",
+    "static/media/foto5.jpg": "/static/media/foto5.e693d006634fcfcf334c.jpg",
+    "static/media/istockphoto-1346488310-612x612.jpg": "/static/media/istockphoto-1346488310-612x612.2ea5db11b3967bbdd37a.jpg",
+    "static/media/foto10.jpg": "/static/media/foto10.38148df0f9065aa9daec.jpg",
+    "static/media/foto8.jpg": "/static/media/foto8.0231ae3c02eeff1981cc.jpg",
+    "static/media/foto4.jpg": "/static/media/foto4.8343d4dfcdfddd23cc56.jpg",
+    "static/media/foto9.jpg": "/static/media/foto9.f174daf2fb640a28321e.jpg",
+    "static/media/foto3.jpg": "/static/media/foto3.9669a3d29299cd0f38b0.jpg",
+    "static/media/foto1.jpg": "/static/media/foto1.a6e91ac536c96eb736a7.jpg",
+    "static/media/foto7.jpg": "/static/media/foto7.8b88325633c82ea48018.jpg",
+    "static/media/foto6.jpg": "/static/media/foto6.a44856798bb7a8d830af.jpg",
+    "static/media/icons8-whatsapp.svg": "/static/media/icons8-whatsapp.24e2cf1ed5cefd66d904380e700a4339.svg",
+    "static/media/icons8-instagram.svg": "/static/media/icons8-instagram.8ff7ce92ad753b591ed4c1d03e84c026.svg",
+    "static/media/icons8-dribbble (1).svg": "/static/media/icons8-dribbble (1).e582e5df40b5c577289e1f5af14d5328.svg",
+    "index.html": "/index.html",
+    "static/media/icons8-facebook.svg": "/static/media/icons8-facebook.1d60f030f88d365627c35afd0f0f9d38.svg",
+    "main.e35b2a0b.css.map": "/static/css/main.e35b2a0b.css.map",
+    "main.208cbb5c.js.map": "/static/js/main.208cbb5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e35b2a0b.css",
+    "static/js/main.208cbb5c.js"
+  ]
+}
