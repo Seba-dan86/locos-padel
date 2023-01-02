@@ -1,7 +1,7 @@
 import React from 'react';
 import "../App.css";
 
-
+import Error from '../components/Error';
 import{ Principal} from '../components/Principal';
 import Contacto from '../components/Contacto';
 import Mapa from '../components/Mapa';
@@ -23,7 +23,7 @@ export const Rutas = () => {
       <Route exact  path="/Data" element={<Data/>}/> ;
      <Route  exact path="/Mapa" element={<Mapa />} />;
         <Route  exact path="/Home" element={<Contacto />} />;
-
+     <Route exact path="*" element={<Error />}/>;
 </Routes>
     </BrowserRouter>
 
