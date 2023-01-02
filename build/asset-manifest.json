@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/locos-padel/static/css/main.461a226d.css",
-    "main.js": "/locos-padel/static/js/main.82c19b62.js",
+    "main.js": "/locos-padel/static/js/main.dbfca5db.js",
     "static/media/video.mp4": "/locos-padel/static/media/video.cd4f5e0011111d21f2c9.mp4",
     "static/media/foto2.jpg": "/locos-padel/static/media/foto2.e85bbab1c1c9193aca7e.jpg",
     "static/media/foto5.jpg": "/locos-padel/static/media/foto5.e693d006634fcfcf334c.jpg",
@@ -20,10 +20,10 @@
     "index.html": "/locos-padel/index.html",
     "static/media/icons8-facebook.svg": "/locos-padel/static/media/icons8-facebook.1d60f030f88d365627c35afd0f0f9d38.svg",
     "main.461a226d.css.map": "/locos-padel/static/css/main.461a226d.css.map",
-    "main.82c19b62.js.map": "/locos-padel/static/js/main.82c19b62.js.map"
+    "main.dbfca5db.js.map": "/locos-padel/static/js/main.dbfca5db.js.map"
   },
   "entrypoints": [
     "static/css/main.461a226d.css",
-    "static/js/main.82c19b62.js"
+    "static/js/main.dbfca5db.js"
   ]
 }
