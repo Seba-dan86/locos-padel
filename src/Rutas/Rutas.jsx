@@ -19,11 +19,11 @@ export const Rutas = () => {
     <BrowserRouter>
 
     <Routes>
-        <Route  path="/"  element={<Principal/>} />;
+        <Route exact  path="/"  element={<Principal/>} />;
       <Route exact  path="/Data" element={<Data/>}/> ;
      <Route  exact path="/Mapa" element={<Mapa />} />;
         <Route  exact path="/Home" element={<Contacto />} />;
-     <Route path="*" element={<Error />}/>;
+     <Route  path="*" element={<Error />}/>;
 </Routes>
     </BrowserRouter>
 
