@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7a7c607-2d9d-4720-82d8-b47c39bef41e" name="Changes" comment="" />
+    <list default="true" id="a7a7c607-2d9d-4720-82d8-b47c39bef41e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sevas/OneDrive/Escritorio/Locos x el padel/locos-padel",
+    "last_opened_file_path": "C:/Users/sevas/OneDrive/Escritorio/css",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -39,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672524633897</updated>
       <workItem from="1672524635447" duration="57000" />
+      <workItem from="1672703643856" duration="737000" />
     </task>
     <servers />
   </component>
