@@ -108,7 +108,7 @@ import foto10 from './img/foto10.jpg';
       id:10,
       title:'Somos Padel',
       social_data1:"https://www.instagram.com/somospadel.vm/",
-      image: 'https://media.istockphoto.com/id/1383047615/es/foto/una-pelota-de-p%C3%A1del-en-raqueta-en-estudio-tiro.jpg?s=612x612&w=0&k=20&c=rHHWQtqwKOwdxH_aOswpxQKifq6i3Y4MFOVYyVgUqzA=',
+      image: 'https://media.istockphoto.com/id/1423206228/es/foto/vista-superior-de-las-bolas-amarillas-en-el-suelo-cerca-de-la-raqueta-de-p%C3%A1del-en-la-pista.jpg?s=612x612&w=0&k=20&c=uH4z_lwE7NpOxeeIafVIkJReim-0aLOeC09obEE9gpc=',
       phone: 542657227839,
       direction:' 3 de Febrero 1449',
       social_data:'https://www.facebook.com/profile.php?id=100085623590391',

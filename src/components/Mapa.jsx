@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+
 import "../App.css";
 import { Navbar } from "./Navbar";
 import {TileLayer,Marker,Popup, MapContainer} from "react-leaflet";
@@ -6,10 +6,10 @@ import "leaflet/dist/leaflet.css";
 import data from '../Data';
 import { iconLock } from "./Icon";
  const Mapa = () => {
-  const [place,setPlace]= useState({
+  let place= {
     location:{lat:'-33.67571',lng:'-65.45783'},
     zoom: 13
-  })
+  }
 
 
   return (
